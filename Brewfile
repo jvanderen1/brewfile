@@ -19,17 +19,17 @@ cask "appcleaner"
 cask "authy"
 cask "box-sync"
 cask "discord"
-cask "docker"
 cask "firefox"
 cask "flux"
 cask "font-hack-nerd-font"
-cask "font-open-sans"
 cask "github"
 cask "google-chrome"
 cask "iterm2"
 cask "itsycal"
 cask "jetbrains-toolbox"
 cask "keka"
+cask "kekaexternalhelper"
+cask "microsoft-auto-update"
 cask "microsoft-edge"
 cask "postman"
 cask "slack"
@@ -40,9 +40,11 @@ cask "visual-studio-code"
 cask "vlc"
 cask "zoom"
 mas "Amphetamine", id: 937984704
+mas "Bitwarden", id: 1352778147
 mas "iMovie", id: 408981434
 mas "Magnet", id: 441258766
 mas "Messenger", id: 1480068668
 mas "OneDrive", id: 823766827
 mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
+mas "Xcode", id: 497799835
